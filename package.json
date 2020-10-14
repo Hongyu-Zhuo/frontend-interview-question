@@ -1,0 +1,26 @@
+{
+  "name": "frontend-interview-question",
+  "version": "0.0.1",
+  "description": "inteview",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZZsuper/frontend-interview-question.git"
+  },
+  "keywords": [
+    "interview"
+  ],
+  "author": "Hongyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZZsuper/frontend-interview-question/issues"
+  },
+  "homepage": "https://github.com/ZZsuper/frontend-interview-question#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
